@@ -1,0 +1,12 @@
+{
+  "name": "我的每周菜单",
+  "short_name": "我的菜单",
+  "description": "安排每日菜品、保存菜谱并生成采购清单。",
+  "start_url": "meal-planner.html",
+  "display": "standalone",
+  "background_color": "#fbfaf5",
+  "theme_color": "#fbfaf5",
+  "icons": [
+    {"src": "meal-planner-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
